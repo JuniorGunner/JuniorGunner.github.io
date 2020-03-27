@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Objective
+## Objective
 
 * Disseminate my skills for potential jobs with my personal projects;
 
