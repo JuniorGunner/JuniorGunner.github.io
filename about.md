@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+B.Sc. in Computer Science from the Universidade de Sorocaba - UNISO. Contemplated with full scholarship granted by Programa Universidade para Todos - PROUNI. Graduated in July/2018.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Projects during the course:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Description: Online platform for game exchange based on the principles of collaborative economy - [GameTrade](github.com/JuniorGunner/gameTrade). Tools: Python, Django, Atom, GitHub;
 
+* Description: Online Judge and Academic Interaction Channel for Programming Learning Support - [OJ](github.com/JuniorGunner/OJ). Tools: Python, Django, Atom, GitHub;
 
 [jekyll-organization]: https://github.com/jekyll
