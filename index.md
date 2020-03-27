@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## Objective
-
 * Disseminate my skills for potential jobs with my personal projects;
 
 * Share knowledge with my blog focused on technology and science.
