@@ -2,7 +2,7 @@
 
 Personal website / portfolio. (Under construction)
 
-![Under construction](static/img/under_construction.png)
+![Under construction](https://octodex.github.com/images/tentocats.jpg)
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
