@@ -10,13 +10,13 @@ I intend to post here some programming tips to help new developers formation. Al
 
 Hope to contribute with the Computer Science community somehow, starting already in the next week.
 
-{% highlight python %}
+```python
 def farewell(name):
   print(f'See ya, {name}!')
 
 farewell('my new friend')
 #=> prints 'See ya, my new friend!' to STDOUT.
-{% endhighlight %}
+```
 
 We'll talk soon.
 
